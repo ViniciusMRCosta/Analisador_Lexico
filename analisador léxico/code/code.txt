@@ -1,0 +1,6 @@
+check = "lexico";
+cont= 20;
+while! (cont <30){
+    ?cont = cont +1;
+}
+@
